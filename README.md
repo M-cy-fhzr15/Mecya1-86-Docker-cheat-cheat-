@@ -1,3 +1,4 @@
+
 # Docker-cheat-cheat
 # Nom: RAMALALANIAINA 
 # Prénoms : Mariucya Mecya 
@@ -176,7 +177,7 @@ Lister les volumes
 docker volume ls  
 ```  
 
-Afficher les dÃ©tails d'un volume  
+Afficher les details d'un volume  
 ```  
 docker volume inspect data_volume  
 ```  
